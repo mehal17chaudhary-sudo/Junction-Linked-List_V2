@@ -1,0 +1,2 @@
+segment_size,shortcuts_per_junction,level_probability,block_size,local_interval,sub_interval,t_j,soft_pct,hard_pct,flagged_ratio_limit,min_seg_len_pct,max_suboptimal_segments,min_suboptimal_events_before_global,emergency_hard_segment_ratio,stop_crash_local_sub,max_skip_level,speedup,final_speedup
+16384,2,0.5,10,1000,3000,0.3554085299585735,0.24960757268257808,0.6006408032840826,0.25264080538122285,0.17156103952989057,0.5503493254432222,4,0.8301821716483375,0.03469407611639356,0,0.619645,0.619645
